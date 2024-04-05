@@ -29,8 +29,8 @@ const CONFIG = {
 //  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
 //  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
-  HEO_HERO_CATEGORY_1: { title: '技术福利', url: '/tag/⭐️技术福利' },
-  HEO_HERO_CATEGORY_2: { title: '优质羊毛', url: '/tag/⭐️优质羊毛' },
+  HEO_HERO_CATEGORY_1: { title: '数字游民', url: '/tag/⭐数字游民' },
+  HEO_HERO_CATEGORY_2: { title: '技术福利', url: '/tag/⭐️技术福利' },
   HEO_HERO_CATEGORY_3: { title: '精品资源', url: '/tag/⭐️精品资源' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
